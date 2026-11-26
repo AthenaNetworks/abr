@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>33051775556</identifierValue>
+      <history>Y</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:49:58.1110964+11:00</dateTimeRetrieved>
+    <businessEntity202001>
+      <recordLastUpdatedDate>2024-02-15</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>33051775556</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Active</entityStatusCode>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber>051775556</ASICNumber>
+      <entityType>
+        <entityTypeCode>PUB</entityTypeCode>
+        <entityDescription>Australian Public Company</entityDescription>
+      </entityType>
+      <goodsAndServicesTax>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </goodsAndServicesTax>
+      <mainName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-01-20</effectiveFrom>
+      </mainName>
+      <mainName>
+        <organisationName>TELSTRA CORP LTD</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2000-01-20</effectiveTo>
+      </mainName>
+      <mainTradingName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>2000-01-20</effectiveFrom>
+      </mainTradingName>
+      <mainTradingName>
+        <organisationName>TELECOM AUSTRALIA O T C</organisationName>
+        <effectiveFrom>1999-11-21</effectiveFrom>
+        <effectiveTo>2000-01-20</effectiveTo>
+      </mainTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-09-12</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-07-21</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>2000-04-26</effectiveFrom>
+      </otherTradingName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2022-01-19</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2019-12-10</effectiveFrom>
+        <effectiveTo>2022-01-19</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2019-10-29</effectiveFrom>
+        <effectiveTo>2019-12-10</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2017-04-26</effectiveFrom>
+        <effectiveTo>2019-10-29</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2014-09-18</effectiveFrom>
+        <effectiveTo>2017-04-26</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2013-01-08</effectiveFrom>
+        <effectiveTo>2014-09-18</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2007-08-20</effectiveFrom>
+        <effectiveTo>2013-01-08</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2002-09-04</effectiveFrom>
+        <effectiveTo>2007-08-20</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>1999-12-21</effectiveFrom>
+        <effectiveTo>2002-09-04</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <businessName>
+        <organisationName>TELSTRA INFRACO</organisationName>
+        <effectiveFrom>2023-03-17</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-12</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>NETWORKING TASMANIA</organisationName>
+        <effectiveFrom>2005-02-28</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>WHEREIS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>Code Club Australia</organisationName>
+        <effectiveFrom>2022-11-08</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>2021-07-20</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>Telstra Business and Enterprise</organisationName>
+        <effectiveFrom>2017-08-22</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SEA HOUSE CAFE</organisationName>
+        <effectiveFrom>2017-08-05</effectiveFrom>
+        <effectiveTo>2018-05-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SEA HOUSE</organisationName>
+        <effectiveFrom>2017-08-05</effectiveFrom>
+        <effectiveTo>2017-09-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SEA HOUSE COFFEE</organisationName>
+        <effectiveFrom>2017-08-05</effectiveFrom>
+        <effectiveTo>2017-09-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SEA HOUSE HOTEL</organisationName>
+        <effectiveFrom>2017-08-05</effectiveFrom>
+        <effectiveTo>2017-09-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SEA HOUSE RESTAURANT</organisationName>
+        <effectiveFrom>2017-08-05</effectiveFrom>
+        <effectiveTo>2017-09-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>Anywhere Healthcare</organisationName>
+        <effectiveFrom>2015-05-20</effectiveFrom>
+        <effectiveTo>2022-01-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>Belong Broadband</organisationName>
+        <effectiveFrom>2015-01-14</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>KIT STORE</organisationName>
+        <effectiveFrom>2014-11-05</effectiveFrom>
+        <effectiveTo>2018-03-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>MY HEALTH GATEWAY</organisationName>
+        <effectiveFrom>2014-10-23</effectiveFrom>
+        <effectiveTo>2018-03-08</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA READYCARE</organisationName>
+        <effectiveFrom>2014-10-17</effectiveFrom>
+        <effectiveTo>2015-01-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ReadyCare Australia</organisationName>
+        <effectiveFrom>2014-08-28</effectiveFrom>
+        <effectiveTo>2021-03-26</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ReadyCare Corporation</organisationName>
+        <effectiveFrom>2014-08-28</effectiveFrom>
+        <effectiveTo>2021-03-26</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>Medgate</organisationName>
+        <effectiveFrom>2014-08-05</effectiveFrom>
+        <effectiveTo>2021-02-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>Telstra Medgate</organisationName>
+        <effectiveFrom>2014-08-05</effectiveFrom>
+        <effectiveTo>2021-02-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA GLOBAL</organisationName>
+        <effectiveFrom>2012-06-21</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-12-29</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-11-01</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-10-26</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-10-24</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-10-12</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-09-05</effectiveFrom>
+        <effectiveTo>2023-09-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-09-01</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUTOMOTIVE ALLIANCE</organisationName>
+        <effectiveFrom>2011-09-01</effectiveFrom>
+        <effectiveTo>2016-06-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TLIFE</organisationName>
+        <effectiveFrom>2010-04-13</effectiveFrom>
+        <effectiveTo>2016-02-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>T LIFE</organisationName>
+        <effectiveFrom>2010-03-12</effectiveFrom>
+        <effectiveTo>2019-07-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TLIFE</organisationName>
+        <effectiveFrom>2010-02-26</effectiveFrom>
+        <effectiveTo>2016-01-31</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TLIFE</organisationName>
+        <effectiveFrom>2009-09-08</effectiveFrom>
+        <effectiveTo>2016-02-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>JUSTLISTED.COM.AU</organisationName>
+        <effectiveFrom>2009-07-27</effectiveFrom>
+        <effectiveTo>2015-05-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>JUSTLOANS.COM.AU</organisationName>
+        <effectiveFrom>2009-07-27</effectiveFrom>
+        <effectiveTo>2015-05-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-07-18</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-07-07</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-06-10</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2008-02-12</effectiveFrom>
+        <effectiveTo>2016-06-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-02-01</effectiveFrom>
+        <effectiveTo>2016-06-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-02-01</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-02-01</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES SERVICES</organisationName>
+        <effectiveFrom>2008-02-01</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2008-01-15</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2008-01-03</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-18</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-12</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-11</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-10</effectiveFrom>
+        <effectiveTo>2016-06-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LEARNING ACADEMY</organisationName>
+        <effectiveFrom>2007-09-06</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>2006-10-27</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENCED SHOP</organisationName>
+        <effectiveFrom>2006-09-11</effectiveFrom>
+        <effectiveTo>2015-06-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>LOOKLISTINGS</organisationName>
+        <effectiveFrom>2005-05-18</effectiveFrom>
+        <effectiveTo>2005-06-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TRADING POST</organisationName>
+        <effectiveFrom>2005-03-21</effectiveFrom>
+        <effectiveTo>2017-07-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TRADING POST</organisationName>
+        <effectiveFrom>2005-03-11</effectiveFrom>
+        <effectiveTo>2016-05-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>2004-11-16</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-11-16</effectiveFrom>
+        <effectiveTo>2007-12-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TRADING POST</organisationName>
+        <effectiveFrom>2004-11-15</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>2004-10-26</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>2004-10-25</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-25</effectiveFrom>
+        <effectiveTo>2008-03-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>2004-10-21</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>2004-10-21</effectiveFrom>
+        <effectiveTo>2016-05-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-21</effectiveFrom>
+        <effectiveTo>2008-01-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-21</effectiveFrom>
+        <effectiveTo>2007-12-21</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-18</effectiveFrom>
+        <effectiveTo>2008-05-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-18</effectiveFrom>
+        <effectiveTo>2008-02-26</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-18</effectiveFrom>
+        <effectiveTo>2007-12-29</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RECOVATECH</organisationName>
+        <effectiveFrom>2004-10-15</effectiveFrom>
+        <effectiveTo>2007-10-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SMARTLISTINGS</organisationName>
+        <effectiveFrom>2004-01-16</effectiveFrom>
+        <effectiveTo>2008-11-26</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-12-11</effectiveFrom>
+        <effectiveTo>2015-12-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-12-05</effectiveFrom>
+        <effectiveTo>2019-04-18</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-12-03</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-12-02</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-12-01</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-11-25</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>2003-09-12</effectiveFrom>
+        <effectiveTo>2015-06-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>COUNTRYWIDE COMMUNICATIONS</organisationName>
+        <effectiveFrom>2003-08-20</effectiveFrom>
+        <effectiveTo>2009-08-20</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-08-06</effectiveFrom>
+        <effectiveTo>2015-05-29</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-07-30</effectiveFrom>
+        <effectiveTo>2015-12-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-07-09</effectiveFrom>
+        <effectiveTo>2015-12-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>2003-07-08</effectiveFrom>
+        <effectiveTo>2018-11-15</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>2003-07-08</effectiveFrom>
+        <effectiveTo>2018-11-15</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-07-02</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-06-27</effectiveFrom>
+        <effectiveTo>2016-01-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-06-27</effectiveFrom>
+        <effectiveTo>2015-12-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-06-27</effectiveFrom>
+        <effectiveTo>2015-12-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND</organisationName>
+        <effectiveFrom>2003-06-27</effectiveFrom>
+        <effectiveTo>2015-12-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>2003-06-18</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>2003-06-18</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>2003-06-17</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>2003-06-17</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>2003-06-17</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>2003-06-17</effectiveFrom>
+        <effectiveTo>2006-06-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA INFONET</organisationName>
+        <effectiveFrom>2003-05-30</effectiveFrom>
+        <effectiveTo>2015-05-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>2003-02-21</effectiveFrom>
+        <effectiveTo>2020-12-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-01-13</effectiveFrom>
+        <effectiveTo>2015-12-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BIGPOND MUSIC</organisationName>
+        <effectiveFrom>2003-01-13</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>WEBWORKS ONLINE</organisationName>
+        <effectiveFrom>2002-06-13</effectiveFrom>
+        <effectiveTo>2008-06-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA'S KIDS FUND</organisationName>
+        <effectiveFrom>2002-04-08</effectiveFrom>
+        <effectiveTo>2023-09-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>THINGS THAT GO</organisationName>
+        <effectiveFrom>2002-03-04</effectiveFrom>
+        <effectiveTo>2017-07-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BUSINESS SHOP</organisationName>
+        <effectiveFrom>2002-01-21</effectiveFrom>
+        <effectiveTo>2024-02-15</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RU ONLINE</organisationName>
+        <effectiveFrom>2001-11-23</effectiveFrom>
+        <effectiveTo>2005-01-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>VIEWPOINT PRESENTATION SERVICES</organisationName>
+        <effectiveFrom>2001-10-19</effectiveFrom>
+        <effectiveTo>2004-10-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IAPSELFHELP</organisationName>
+        <effectiveFrom>2001-09-28</effectiveFrom>
+        <effectiveTo>2004-10-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA NETWORKING TASMANIA</organisationName>
+        <effectiveFrom>2001-07-30</effectiveFrom>
+        <effectiveTo>2005-02-07</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ROOSFC</organisationName>
+        <effectiveFrom>2001-07-12</effectiveFrom>
+        <effectiveTo>2010-07-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>MOBILEFUN</organisationName>
+        <effectiveFrom>2001-07-04</effectiveFrom>
+        <effectiveTo>2019-11-14</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CONFERLINK</organisationName>
+        <effectiveFrom>2001-05-21</effectiveFrom>
+        <effectiveTo>2019-10-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HAWTHORN HAWKS FOOTBALL</organisationName>
+        <effectiveFrom>2001-03-01</effectiveFrom>
+        <effectiveTo>2010-03-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>MAGPIESFC</organisationName>
+        <effectiveFrom>2001-02-28</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>COLLINGWOODMAGPIES</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ESSENDONBOMBERS CLUB</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>FREMANTLEDOCKERS CLUB</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>GEELONGCATS</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RICHMONDTIGERSFC</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>WESTCOASTFC</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>RICHMOND TIGERS</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2009-06-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CARLTONBLUES</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2009-06-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>STKILDAFC</organisationName>
+        <effectiveFrom>2001-02-27</effectiveFrom>
+        <effectiveTo>2009-06-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BLUESFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ADELAIDEFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BOMBERSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BRISBANEFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BULLDOGSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CATSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CROWSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>DEMONSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>DOCKERSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>EAGLESFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HAWKSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>LIONSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>PORTPOWERFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SAINTSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TIGERSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2010-02-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SWANSFC</organisationName>
+        <effectiveFrom>2001-02-26</effectiveFrom>
+        <effectiveTo>2009-06-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRAWHOLESALE</organisationName>
+        <effectiveFrom>2001-02-07</effectiveFrom>
+        <effectiveTo>2019-06-20</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>BOOK MUNCHER</organisationName>
+        <effectiveFrom>2001-02-02</effectiveFrom>
+        <effectiveTo>2007-02-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA GOEUREKA</organisationName>
+        <effectiveFrom>2001-02-02</effectiveFrom>
+        <effectiveTo>2007-02-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INTERNET PROTOCOL BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-05</effectiveFrom>
+        <effectiveTo>2004-01-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IP BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-05</effectiveFrom>
+        <effectiveTo>2004-01-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IPBC</organisationName>
+        <effectiveFrom>2001-01-05</effectiveFrom>
+        <effectiveTo>2004-01-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INTERNET PROTOCOL BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-04</effectiveFrom>
+        <effectiveTo>2004-02-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IP BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-04</effectiveFrom>
+        <effectiveTo>2004-02-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IPBC</organisationName>
+        <effectiveFrom>2001-01-04</effectiveFrom>
+        <effectiveTo>2004-02-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INTERNET PROTOCOL BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-02</effectiveFrom>
+        <effectiveTo>2004-03-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IP BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-02</effectiveFrom>
+        <effectiveTo>2004-03-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IPBC</organisationName>
+        <effectiveFrom>2001-01-02</effectiveFrom>
+        <effectiveTo>2004-03-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IP BACKBONE COMPANY</organisationName>
+        <effectiveFrom>2001-01-02</effectiveFrom>
+        <effectiveTo>2002-05-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>IPBC</organisationName>
+        <effectiveFrom>2001-01-02</effectiveFrom>
+        <effectiveTo>2002-05-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>SURELINK</organisationName>
+        <effectiveFrom>2000-06-22</effectiveFrom>
+        <effectiveTo>2003-06-23</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-20</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-12</effectiveFrom>
+        <effectiveTo>2013-03-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-04</effectiveFrom>
+        <effectiveTo>2013-04-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-04</effectiveFrom>
+        <effectiveTo>2013-04-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-04</effectiveFrom>
+        <effectiveTo>2013-03-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-04</effectiveFrom>
+        <effectiveTo>2013-03-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA COUNTRY WIDE</organisationName>
+        <effectiveFrom>2000-06-04</effectiveFrom>
+        <effectiveTo>2013-03-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>" TELSTRA COUNTRY WIDE "</organisationName>
+        <effectiveFrom>2000-06-02</effectiveFrom>
+        <effectiveTo>2013-03-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>WWWAP</organisationName>
+        <effectiveFrom>2000-05-05</effectiveFrom>
+        <effectiveTo>2003-05-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TRADING POST</organisationName>
+        <effectiveFrom>2000-05-01</effectiveFrom>
+        <effectiveTo>2016-05-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>COMMUNIC8</organisationName>
+        <effectiveFrom>2000-05-01</effectiveFrom>
+        <effectiveTo>2006-05-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>COMMUNIK8</organisationName>
+        <effectiveFrom>2000-05-01</effectiveFrom>
+        <effectiveTo>2006-05-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>D.FUSE</organisationName>
+        <effectiveFrom>2000-05-01</effectiveFrom>
+        <effectiveTo>2003-05-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>131679</organisationName>
+        <effectiveFrom>2000-04-14</effectiveFrom>
+        <effectiveTo>2003-04-15</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>131NSW</organisationName>
+        <effectiveFrom>2000-04-14</effectiveFrom>
+        <effectiveTo>2003-04-15</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA FUSE</organisationName>
+        <effectiveFrom>2000-04-06</effectiveFrom>
+        <effectiveTo>2003-04-07</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TMAX</organisationName>
+        <effectiveFrom>2000-04-06</effectiveFrom>
+        <effectiveTo>2003-04-07</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>AUSTRALIA JAPAN CABLE</organisationName>
+        <effectiveFrom>2000-01-17</effectiveFrom>
+        <effectiveTo>2003-01-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-12-23</effectiveFrom>
+        <effectiveTo>2002-12-23</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ITSYOUR</organisationName>
+        <effectiveFrom>1999-12-22</effectiveFrom>
+        <effectiveTo>2002-12-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ITSYOURDOT</organisationName>
+        <effectiveFrom>1999-12-22</effectiveFrom>
+        <effectiveTo>2002-12-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA.COM</organisationName>
+        <effectiveFrom>1999-12-01</effectiveFrom>
+        <effectiveTo>2003-07-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>NEIGHBOURHOODNET COMMUNITY PORTAL</organisationName>
+        <effectiveFrom>1999-11-22</effectiveFrom>
+        <effectiveTo>2002-11-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>PHONEWATCH</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2023-07-02</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-07-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2021-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2019-07-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2019-07-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2018-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2018-06-23</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2017-05-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>CREDITECH</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2017-05-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TRADING POST</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-06-11</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-05-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-05-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-05-29</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-01-11</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-01-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2012-05-14</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND HOME</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-11-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND HOME</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-10-14</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND HOME</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2006-07-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND HOME</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2003-09-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>NEWS ROOM</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-09-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>GEOYELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-04-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>UCHOOSE</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2005-10-11</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA GALAXY KIDS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-08-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MEETINGS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2005-07-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-06</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA LICENSED SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TOOLS AND TOYS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2001-12-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>FOODCONNECT AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2005-02-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2003-08-13</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-12-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND HOME</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2003-09-22</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-08-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-10-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-08-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2004-05-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA BIG POND BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2003-09-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2012-01-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2012-01-11</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2003-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-12-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-12-03</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-10-31</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-10-31</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>PAY-COMMUNICATION SERVICES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-07-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>PUBLIC ACCESS COMMUNICATIONS SERVICES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-07-09</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-12-23</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2012-02-04</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-03-17</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-04-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-01-30</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2011-03-01</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-11-24</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-12-11</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2009-01-19</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2008-02-07</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA MOBILENET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2000-05-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2016-06-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-09-25</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>THE YELLOW PAGES ADVERTISING GROUP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>THE YELLOW PAGES BUSINESS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>THE YELLOW PAGES COMPANY</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>THE YELLOW PAGES GROUP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES ENTERPRISE</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES INCORPORATED</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES MEDIA GROUP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2010-01-28</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2001-05-27</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2001-10-12</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2004-04-16</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2004-02-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>ELECTRONIC YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-03-23</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>HELLO YELLOW</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2001-07-10</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2012-05-07</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-03-14</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA INFONET</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2002-12-29</effectiveTo>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>2015-12-05</effectiveTo>
+      </businessName>
+    </businessEntity202001>
+  </response>
+</ABRPayloadSearchResults>

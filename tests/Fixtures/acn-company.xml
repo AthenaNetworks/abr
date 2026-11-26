@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ASIC</identifierType>
+      <identifierValue>051775556</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:49:59.2361391+11:00</dateTimeRetrieved>
+    <businessEntity201408>
+      <recordLastUpdatedDate>2024-02-15</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>33051775556</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Active</entityStatusCode>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber>051775556</ASICNumber>
+      <entityType>
+        <entityTypeCode>PUB</entityTypeCode>
+        <entityDescription>Australian Public Company</entityDescription>
+      </entityType>
+      <goodsAndServicesTax>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </goodsAndServicesTax>
+      <mainName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-01-20</effectiveFrom>
+      </mainName>
+      <mainTradingName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>2000-01-20</effectiveFrom>
+      </mainTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-09-12</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA CORPORATION LIMITED</organisationName>
+        <effectiveFrom>2000-07-21</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>TELSTRA</organisationName>
+        <effectiveFrom>2000-04-26</effectiveFrom>
+      </otherTradingName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3000</postcode>
+        <effectiveFrom>2022-01-19</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <businessName>
+        <organisationName>TELSTRA INFRACO</organisationName>
+        <effectiveFrom>2023-03-17</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>SPECIALISED RECOVERIES</organisationName>
+        <effectiveFrom>2007-12-12</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>NETWORKING TASMANIA</organisationName>
+        <effectiveFrom>2005-02-28</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>TELECOM AUSTRALIA</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>TELSTRA SHOP</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>WHEREIS</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>YELLOW PAGES</organisationName>
+        <effectiveFrom>1999-11-01</effectiveFrom>
+      </businessName>
+    </businessEntity201408>
+  </response>
+</ABRPayloadSearchResults>

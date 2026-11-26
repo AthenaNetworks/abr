@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>50169561394</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:50:59.6254433+11:00</dateTimeRetrieved>
+    <businessEntity202001>
+      <recordLastUpdatedDate>2026-05-15</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>50169561394</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Active</entityStatusCode>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber />
+      <entityType>
+        <entityTypeCode>OIE</entityTypeCode>
+        <entityDescription>Other Incorporated Entity</entityDescription>
+      </entityType>
+      <goodsAndServicesTax>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </goodsAndServicesTax>
+      <dgrEndorsement>
+        <endorsedFrom>2000-07-01</endorsedFrom>
+        <endorsedTo>0001-01-01</endorsedTo>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <entityEndorsement>Endorsed DGR</entityEndorsement>
+        <itemNumber>Item 1</itemNumber>
+      </dgrEndorsement>
+      <mainName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </mainName>
+      <mainTradingName>
+        <organisationName>AUSTRALIAN RED CROSS NATIONAL OFFICE</organisationName>
+        <effectiveFrom>2003-11-04</effectiveFrom>
+      </mainTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE</organisationName>
+        <effectiveFrom>2012-02-27</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - NSW &amp; ACT</organisationName>
+        <effectiveFrom>2003-11-06</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - NW REGION (WA)</organisationName>
+        <effectiveFrom>2003-11-06</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - TASMANIAN DIVISION</organisationName>
+        <effectiveFrom>2003-11-06</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - WESTERN AUSTRALIA DIVISION</organisationName>
+        <effectiveFrom>2003-11-06</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY VICTORIA</organisationName>
+        <effectiveFrom>2001-12-03</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - HOBART</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - NATIONAL OFFICE</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - NW REGION (NT)</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - QUEENSLAND</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE - VICTORIA</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - ACT DIVISION</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - NORTHERN TERRITORY DIVISION</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - NSW DIVISION</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - QUEENSLAND DIVISION</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <otherTradingName>
+        <organisationName>AUSTRALIAN RED CROSS SOCIETY - SOUTH AUSTRALIAN DIVISION</organisationName>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+      </otherTradingName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>VIC</stateCode>
+        <postcode>3008</postcode>
+        <effectiveFrom>2026-05-15</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <dgrFund>
+        <dgrFundName>
+          <organisationName>AUSTRALIAN RED CROSS SOCIETY_DEVELOPING COUNTRIES AID FUND</organisationName>
+          <score>0</score>
+          <isCurrentIndicator>Y</isCurrentIndicator>
+        </dgrFundName>
+        <endorsedFrom>2000-07-01</endorsedFrom>
+        <endorsedTo>0001-01-01</endorsedTo>
+        <itemNumber>Item 1</itemNumber>
+      </dgrFund>
+      <dgrFund>
+        <dgrFundName>
+          <organisationName>AUSTRALIAN RED CROSS BLOOD SERVICE</organisationName>
+          <score>0</score>
+          <isCurrentIndicator>Y</isCurrentIndicator>
+        </dgrFundName>
+        <endorsedFrom>2000-07-01</endorsedFrom>
+        <endorsedTo>0001-01-01</endorsedTo>
+        <itemNumber>Item 1</itemNumber>
+      </dgrFund>
+      <charityType>
+        <charityTypeDescription>Public Benevolent Institution</charityTypeDescription>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </charityType>
+      <taxConcessionCharityEndorsement>
+        <endorsementType>GST Concession</endorsementType>
+        <effectiveFrom>2005-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </taxConcessionCharityEndorsement>
+      <taxConcessionCharityEndorsement>
+        <endorsementType>FBT Exemption</endorsementType>
+        <effectiveFrom>2005-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </taxConcessionCharityEndorsement>
+      <taxConcessionCharityEndorsement>
+        <endorsementType>Income Tax Exemption</endorsementType>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </taxConcessionCharityEndorsement>
+      <businessName>
+        <organisationName>Australian Red Cross Lifeblood</organisationName>
+        <effectiveFrom>2019-11-18</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>HUMANITECH</organisationName>
+        <effectiveFrom>2018-11-02</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>AUSTRALIAN RED CROSS FIRST AID AND MENTAL HEALTH</organisationName>
+        <effectiveFrom>2018-09-02</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>SOCIETY OF WOMEN LEADERS</organisationName>
+        <effectiveFrom>2016-10-26</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>AUSTRALIAN RED CROSS</organisationName>
+        <effectiveFrom>2013-12-11</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>LADY LAWLEY COTTAGE</organisationName>
+        <effectiveFrom>2012-10-03</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>RED CROSS</organisationName>
+        <effectiveFrom>2012-09-20</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>RED CROSS COLLEGE</organisationName>
+        <effectiveFrom>2012-03-28</effectiveFrom>
+      </businessName>
+      <ACNCRegistration>
+        <status>Registered</status>
+        <effectiveFrom>2012-12-03</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </ACNCRegistration>
+    </businessEntity202001>
+  </response>
+</ABRPayloadSearchResults>

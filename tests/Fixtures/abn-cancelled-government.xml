@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>51835430479</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:49:57.2077897+11:00</dateTimeRetrieved>
+    <businessEntity202001>
+      <recordLastUpdatedDate>2009-02-16</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>51835430479</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Cancelled</entityStatusCode>
+        <effectiveFrom>2008-10-31</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber />
+      <entityType>
+        <entityTypeCode>CGE</entityTypeCode>
+        <entityDescription>Commonwealth Government Entity</entityDescription>
+      </entityType>
+      <mainName>
+        <organisationName>DEPARTMENT OF INDUSTRY TOURISM AND RESOURCES</organisationName>
+        <effectiveFrom>2002-11-26</effectiveFrom>
+      </mainName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>ACT</stateCode>
+        <postcode>2601</postcode>
+        <effectiveFrom>2005-10-02</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+    </businessEntity202001>
+  </response>
+</ABRPayloadSearchResults>

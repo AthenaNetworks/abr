@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <nameSearchRequestAdvanced2017>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <name>zzqqxxnonexistentcoqq</name>
+      <filters>
+        <nameType>
+          <tradingName>Y</tradingName>
+          <legalName>Y</legalName>
+          <businessName>Y</businessName>
+        </nameType>
+        <postcode />
+        <stateCode>
+          <QLD>Y</QLD>
+          <NT>Y</NT>
+          <SA>Y</SA>
+          <WA>Y</WA>
+          <VIC>Y</VIC>
+          <ACT>Y</ACT>
+          <TAS>Y</TAS>
+          <NSW>Y</NSW>
+        </stateCode>
+        <activeABNsOnly>N</activeABNsOnly>
+      </filters>
+      <searchWidth>Typical</searchWidth>
+      <minimumScore>0</minimumScore>
+      <maxSearchResults>0</maxSearchResults>
+    </nameSearchRequestAdvanced2017>
+  </request>
+  <response>
+    <dateRegisterLastUpdated>0001-01-01</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:50:39.3769101+11:00</dateTimeRetrieved>
+    <exception>
+      <exceptionDescription>No records found</exceptionDescription>
+      <exceptionCode>Search</exceptionCode>
+    </exception>
+  </response>
+</ABRPayloadSearchResults>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>12345678901</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <dateRegisterLastUpdated>0001-01-01</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:49:58.1514306+11:00</dateTimeRetrieved>
+    <exception>
+      <exceptionDescription>Search text is not a valid ABN or ACN</exceptionDescription>
+      <exceptionCode>WEBSERVICES</exceptionCode>
+    </exception>
+  </response>
+</ABRPayloadSearchResults>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>Postcode</identifierType>
+      <identifierValue>2913</identifierValue>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:50:02.5476093+11:00</dateTimeRetrieved>
+    <abnList>
+      <numberOfRecords>22948</numberOfRecords>
+      <abn>22778074822</abn>
+      <abn>40960436887</abn>
+      <abn>36190778179</abn>
+    </abnList>
+  </response>
+</ABRPayloadSearchResults>

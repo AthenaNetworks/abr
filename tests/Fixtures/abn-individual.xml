@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>14977152310</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-26</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-26T14:50:59.2190695+11:00</dateTimeRetrieved>
+    <businessEntity202001>
+      <recordLastUpdatedDate>2008-01-15</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>14977152310</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Active</entityStatusCode>
+        <effectiveFrom>2005-12-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber />
+      <entityType>
+        <entityTypeCode>IND</entityTypeCode>
+        <entityDescription>Individual/Sole Trader</entityDescription>
+      </entityType>
+      <legalName>
+        <givenName>JOHN</givenName>
+        <otherGivenName />
+        <familyName>SMITH</familyName>
+        <effectiveFrom>2005-12-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </legalName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>QLD</stateCode>
+        <postcode>4171</postcode>
+        <effectiveFrom>2007-07-07</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+    </businessEntity202001>
+  </response>
+</ABRPayloadSearchResults>
