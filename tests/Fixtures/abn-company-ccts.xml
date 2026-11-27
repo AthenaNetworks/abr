@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ABRPayloadSearchResults xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://abr.business.gov.au/ABRXMLSearch/">
+  <request>
+    <identifierSearchRequest>
+      <authenticationGUID>00000000-0000-0000-0000-000000000000</authenticationGUID>
+      <identifierType>ABN</identifierType>
+      <identifierValue>60003792881</identifierValue>
+      <history>N</history>
+    </identifierSearchRequest>
+  </request>
+  <response>
+    <usageStatement>The Registrar of the ABR monitors the quality of the information available on this website and updates the information regularly. However, neither the Registrar of the ABR nor the Commonwealth guarantee that the information available through this service (including search results) is accurate, up to date, complete or accept any liability arising from the use of or reliance upon this site.</usageStatement>
+    <dateRegisterLastUpdated>2026-11-27</dateRegisterLastUpdated>
+    <dateTimeRetrieved>2026-11-28T01:47:01.9807802+11:00</dateTimeRetrieved>
+    <businessEntity202001>
+      <recordLastUpdatedDate>2025-03-03</recordLastUpdatedDate>
+      <ABN>
+        <identifierValue>60003792881</identifierValue>
+        <isCurrentIndicator>Y</isCurrentIndicator>
+        <replacedFrom>0001-01-01</replacedFrom>
+      </ABN>
+      <entityStatus>
+        <entityStatusCode>Active</entityStatusCode>
+        <effectiveFrom>2000-04-02</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </entityStatus>
+      <ASICNumber>003792881</ASICNumber>
+      <entityType>
+        <entityTypeCode>PRV</entityTypeCode>
+        <entityDescription>Australian Private Company</entityDescription>
+      </entityType>
+      <goodsAndServicesTax>
+        <effectiveFrom>2000-07-01</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </goodsAndServicesTax>
+      <mainName>
+        <organisationName>CENTRAL COAST TELEPHONE SYSTEMS PTY LIMITED</organisationName>
+        <effectiveFrom>2000-04-02</effectiveFrom>
+      </mainName>
+      <mainTradingName>
+        <organisationName>CENTRAL COAST TELEPHONES SYSTEMS</organisationName>
+        <effectiveFrom>2000-04-02</effectiveFrom>
+      </mainTradingName>
+      <mainBusinessPhysicalAddress>
+        <stateCode>NSW</stateCode>
+        <postcode>2250</postcode>
+        <effectiveFrom>2025-02-25</effectiveFrom>
+        <effectiveTo>0001-01-01</effectiveTo>
+      </mainBusinessPhysicalAddress>
+      <businessName>
+        <organisationName>CCTS Technologies</organisationName>
+        <effectiveFrom>2023-11-21</effectiveFrom>
+      </businessName>
+      <businessName>
+        <organisationName>CCTS TELECOMMUNICATIONS</organisationName>
+        <effectiveFrom>2000-04-02</effectiveFrom>
+      </businessName>
+    </businessEntity202001>
+  </response>
+</ABRPayloadSearchResults>
