@@ -36,13 +36,16 @@ final readonly class Transport
      */
     public function call(string $operation, array $parameters): string
     {
-        if (trim($this->guid) === '') {
+        // Trimmed because the ABR rejects a GUID with surrounding whitespace (such as the trailing
+        // newline of a secrets file) as "not recognised as a Registered Party".
+        $guid = trim($this->guid);
+        if ($guid === '') {
             throw new AuthenticationException(
                 'No ABR authentication GUID is configured. Register for one at https://abr.business.gov.au/Tools/WebServices',
             );
         }
 
-        $parameters['authenticationGuid'] = $this->guid;
+        $parameters['authenticationGuid'] = $guid;
 
         $request = $this->requestFactory
             ->createRequest('POST', rtrim($this->endpoint, '/') . '/' . $operation)

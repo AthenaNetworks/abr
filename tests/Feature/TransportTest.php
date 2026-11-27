@@ -83,3 +83,13 @@ it('throws only AbrException subclasses', function () {
 it('discovers a PSR-18 client when none is given', function () {
     expect(new AbrClient('guid'))->toBeInstanceOf(AbrClient::class);
 });
+
+it('trims whitespace from the GUID before sending it', function () {
+    // A GUID read from a secrets file usually ends in a newline. The ABR treats "guid\n" as an
+    // unknown GUID ("not recognised as a Registered Party"), so it must be trimmed.
+    $http = (new FakeHttpClient())->queueFixture('acn-company');
+
+    abrWith($http, guid: " test-guid\n")->lookupAbn('33051775556');
+
+    expect($http->lastParameters()['authenticationGuid'])->toBe('test-guid');
+});
