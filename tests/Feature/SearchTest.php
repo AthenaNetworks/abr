@@ -114,3 +114,15 @@ it('searches by ABN status', function () {
     expect((string) $http->lastRequest()->getUri())->toEndWith('/SearchByABNStatus')
         ->and($http->lastParameters())->toMatchArray(['postcode' => '2600', 'activeABNsOnly' => 'Y']);
 });
+
+it('takes the current address when a search record lists several', function () {
+    // The schema allows any number of mainBusinessPhysicalAddress elements per record, each with
+    // its own isCurrentIndicator. This fixture is a real record with a historical address added first.
+    [$abr] = fakeAbr('name-search-multiple-addresses');
+
+    $result = $abr->searchByName(NameQuery::for('Central Coast Telephone Systems')->inStates(State::NSW))->first();
+
+    expect($result?->abn->value)->toBe('60003792881')
+        ->and($result?->state)->toBe(State::NSW)
+        ->and($result?->postcode)->toBe('2250');
+});

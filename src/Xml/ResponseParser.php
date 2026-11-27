@@ -274,7 +274,15 @@ final class ResponseParser
             ]))))
             : (string) $this->text($nameNode, 'organisationName');
 
-        $address = $this->child($record, 'mainBusinessPhysicalAddress');
+        // The schema allows several addresses per record, each flagged with isCurrentIndicator.
+        $address = null;
+        foreach ($c->mainBusinessPhysicalAddress as $candidate) {
+            if ($this->flag($candidate, 'isCurrentIndicator')) {
+                $address = $candidate;
+                break;
+            }
+            $address ??= $candidate;
+        }
 
         return new SearchResult(
             abn: $abn,
